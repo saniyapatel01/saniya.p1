@@ -1,5 +1,5 @@
 # saniya.p1
 This is my first Git Repo. 
 <br>
-author - Saniya Patel
+author - Patel saniya
 
